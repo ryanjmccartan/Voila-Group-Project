@@ -52,7 +52,7 @@ This application is designed so that the main administrator is the one who creat
         - PASSWORD = (your email password here)
     - Note: `.env` file does not get pushed up to Github
     - This will authorize transporter object in `node.mailer.router.js` to send/receive email from your account (where you see process.env.EMAIL and process.env.PASSWORD)
-    - With the way Google's email security works, you will need to go to this address [https://myaccount.google.com/lesssecureapps] and toggle "Allow less secure apps" to ON for your account in order to use Nodemailer. More information can be found here: [https://community.nodemailer.com/using-gmail/].
+    - If using Gmail: With the way Google's email security works, you will need to go to this address [https://myaccount.google.com/lesssecureapps] and toggle "Allow less secure apps" to ON for your account in order to use Nodemailer. More information can be found here: [https://community.nodemailer.com/using-gmail/].
 ​
 ​
 ### Completed Features
@@ -98,7 +98,7 @@ Features that you would like to add at some point in the future.
 ​
 ## Acknowledgments
 ​
-* Thank you to Prime Digital Academy for teaching us all we know and letting us soar. 
+* Thank you to our instructors and the rest of the staff at Prime Digital Academy for teaching us all we know and providing us with all of your support. Thank you as well to our amazing cohort. 
 
 
 
